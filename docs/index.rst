@@ -60,6 +60,12 @@ Tutorials
 
       How to make predictions based on text data.
 
+   .. card::
+      :title: Time Series Forecasting
+      :link: tutorials/time_series/index.html
+
+      Forecast multivariate time series with DeepVAR.
+
 
 Advanced Topics
 ~~~~~~~~~~~~~~~
@@ -89,6 +95,7 @@ Advanced Topics
    :hidden:
 
    tutorials/tabular_prediction/index
+   tutorials/time_series/index
    tutorials/image_classification/index
    tutorials/object_detection/index
    tutorials/text_classification/index

@@ -59,6 +59,17 @@ Tabular Prediction
       Using AutoGluon for Kaggle competitions with tabular data.
 
 
+Time Series Forecasting
+----------------------
+.. container:: cards
+
+   .. card::
+      :title: DeepVAR Quick Start
+      :link: time_series/deepvar.html
+
+      Train a multivariate DeepVAR model.
+
+
 Tuning Custom Models
 --------------------
 .. container:: cards
@@ -120,5 +131,6 @@ Neural Architecture Search
    object_detection/index
    text_classification/index
    tabular_prediction/index
+   time_series/index
    customize/index
    nas/index
